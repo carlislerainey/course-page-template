@@ -22,18 +22,21 @@ body {
 .course-info p {
   font-size: 1rem;
   color: #333;
+  margin-bottom: 0.5rem;
+
 }
 
 .resources {
-  margin-top: 1rem;
-  display: flex;
-  gap: 0.5rem;
-  flex-wrap: wrap;
+  padding-bottom: 1.5rem;        /* ensures space before the line */
+  border-bottom: 1px solid #ddd; /* subtle horizontal separator */
 }
+
+
 .resources a {
   color: black;
   border-color: black;
 }
+
 
 table {
   width: 100%;
@@ -50,7 +53,10 @@ td {
 .week td:nth-child(2) {
   font-size: 1.05rem;
   font-weight: 500;
+  white-space: nowrap;
+
 }
+
 
 .topics {
   font-style: italic;
