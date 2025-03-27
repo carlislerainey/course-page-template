@@ -1,0 +1,229 @@
+[
+  {
+    "week": 1,
+    "date": "2025-01-08",
+    "slides": null,
+    "notes": "files/01-notes.pdf",
+    "exercises": "files/01-exr.pdf",
+    "solutions": "files/01-exr-sol.pdf",
+    "topics": [
+      "Concept 1-a",
+      "Concept 1-b",
+      "Concept 1-c",
+      "Concept 1-d",
+      "Concept 1-e",
+      "Concept 1-f"
+    ]
+  },
+  {
+    "week": 2,
+    "date": "2025-01-15",
+    "slides": "files/02-slides.html",
+    "notes": null,
+    "exercises": "files/02-exr.pdf",
+    "solutions": "files/02-exr-sol.pdf",
+    "topics": [
+      "Topic 2-a: This is an extended description to test line wrapping and responsive design.",
+      "Topic 2-b: Here's another long one that should stretch beyond the usual width and wrap down properly.",
+      "Topic 2-c: A third topic, also verbose, to ensure consistency in display across screen sizes.",
+      "Topic 2-d: Let\u2019s see if this one causes any unexpected overflow in the layout.",
+      "Topic 2-e: Final long topic for this test week to ensure that all content is properly formatted."
+    ]
+  },
+  {
+    "week": 3,
+    "date": "2025-01-22",
+    "slides": "files/03-slides.html",
+    "notes": "files/03-notes.pdf",
+    "exercises": "files/03-exr.pdf",
+    "solutions": "files/03-exr-sol.pdf",
+    "topics": [
+      "This is the first full sentence describing the topic for week three.",
+      "Here is the second sentence, offering more explanation and testing sentence-level formatting.",
+      "This third sentence continues with a moderate length and proper punctuation.",
+      "The fourth sentence should wrap nicely as well and be grammatically correct.",
+      "Lastly, the fifth sentence closes out this week's detailed description cleanly."
+    ]
+  },
+  {
+    "week": 4,
+    "date": "2025-01-29",
+    "slides": null,
+    "notes": "files/04-notes.pdf",
+    "exercises": "files/04-exr.pdf",
+    "solutions": "files/04-exr-sol.pdf",
+    "topics": [
+      "Concept 4-a",
+      "Concept 4-b",
+      "Concept 4-c",
+      "Concept 4-d",
+      "Concept 4-e",
+      "Concept 4-f"
+    ]
+  },
+  {
+    "week": 5,
+    "date": "2025-02-05",
+    "slides": "files/05-slides.html",
+    "notes": "files/05-notes.pdf",
+    "exercises": "files/05-exr.pdf",
+    "solutions": "files/05-exr-sol.pdf",
+    "topics": [
+      "Concept 5-a",
+      "Concept 5-b",
+      "Concept 5-c",
+      "Concept 5-d",
+      "Concept 5-e"
+    ]
+  },
+  {
+    "week": 6,
+    "date": "2025-02-12",
+    "slides": "files/06-slides.html",
+    "notes": "files/06-notes.pdf",
+    "exercises": "files/06-exr.pdf",
+    "solutions": "files/06-exr-sol.pdf",
+    "topics": [
+      "Concept 6-a",
+      "Concept 6-b",
+      "Concept 6-c",
+      "Concept 6-d",
+      "Concept 6-e"
+    ]
+  },
+  {
+    "week": 7,
+    "date": "2025-02-19",
+    "slides": "files/07-slides.html",
+    "notes": "files/07-notes.pdf",
+    "exercises": "files/07-exr.pdf",
+    "solutions": "files/07-exr-sol.pdf",
+    "topics": [
+      "Concept 7-a",
+      "Concept 7-b",
+      "Concept 7-c",
+      "Concept 7-d",
+      "Concept 7-e"
+    ]
+  },
+  {
+    "week": 8,
+    "date": "2025-02-26",
+    "slides": "files/08-slides.html",
+    "notes": "files/08-notes.pdf",
+    "exercises": "files/08-exr.pdf",
+    "solutions": "files/08-exr-sol.pdf",
+    "topics": [
+      "Concept 8-a",
+      "Concept 8-b",
+      "Concept 8-c",
+      "Concept 8-d",
+      "Concept 8-e"
+    ]
+  },
+  {
+    "week": 9,
+    "date": "2025-03-05",
+    "slides": "files/09-slides.html",
+    "notes": "files/09-notes.pdf",
+    "exercises": "files/09-exr.pdf",
+    "solutions": "files/09-exr-sol.pdf",
+    "topics": [
+      "Concept 9-a",
+      "Concept 9-b",
+      "Concept 9-c",
+      "Concept 9-d",
+      "Concept 9-e"
+    ]
+  },
+  {
+    "week": 10,
+    "date": "2025-03-12",
+    "slides": "files/10-slides.html",
+    "notes": "files/10-notes.pdf",
+    "exercises": "files/10-exr.pdf",
+    "solutions": "files/10-exr-sol.pdf",
+    "topics": [
+      "Concept 10-a",
+      "Concept 10-b",
+      "Concept 10-c",
+      "Concept 10-d",
+      "Concept 10-e"
+    ]
+  },
+  {
+    "week": 11,
+    "date": "2025-03-19",
+    "slides": "files/11-slides.html",
+    "notes": "files/11-notes.pdf",
+    "exercises": "files/11-exr.pdf",
+    "solutions": "files/11-exr-sol.pdf",
+    "topics": [
+      "Concept 11-a",
+      "Concept 11-b",
+      "Concept 11-c",
+      "Concept 11-d",
+      "Concept 11-e"
+    ]
+  },
+  {
+    "week": 12,
+    "date": "2025-03-26",
+    "slides": "files/12-slides.html",
+    "notes": "files/12-notes.pdf",
+    "exercises": "files/12-exr.pdf",
+    "solutions": "files/12-exr-sol.pdf",
+    "topics": [
+      "Concept 12-a",
+      "Concept 12-b",
+      "Concept 12-c",
+      "Concept 12-d",
+      "Concept 12-e"
+    ]
+  },
+  {
+    "week": 13,
+    "date": "2025-04-02",
+    "slides": "files/13-slides.html",
+    "notes": "files/13-notes.pdf",
+    "exercises": "files/13-exr.pdf",
+    "solutions": "files/13-exr-sol.pdf",
+    "topics": [
+      "Concept 13-a",
+      "Concept 13-b",
+      "Concept 13-c",
+      "Concept 13-d",
+      "Concept 13-e"
+    ]
+  },
+  {
+    "week": 14,
+    "date": "2025-04-09",
+    "slides": "files/14-slides.html",
+    "notes": "files/14-notes.pdf",
+    "exercises": "files/14-exr.pdf",
+    "solutions": "files/14-exr-sol.pdf",
+    "topics": [
+      "Concept 14-a",
+      "Concept 14-b",
+      "Concept 14-c",
+      "Concept 14-d",
+      "Concept 14-e"
+    ]
+  },
+  {
+    "week": 15,
+    "date": "2025-04-16",
+    "slides": "files/15-slides.html",
+    "notes": "files/15-notes.pdf",
+    "exercises": "files/15-exr.pdf",
+    "solutions": "files/15-exr-sol.pdf",
+    "topics": [
+      "Concept 15-a",
+      "Concept 15-b",
+      "Concept 15-c",
+      "Concept 15-d",
+      "Concept 15-e"
+    ]
+  }
+]
